@@ -1,0 +1,5 @@
+
+Information retrieval is the process of retrieving information.
+Users search for information from documents.
+Searching and retrieval systems help users find relevant documents.
+Information retrieval systems are useful for searching documents.
